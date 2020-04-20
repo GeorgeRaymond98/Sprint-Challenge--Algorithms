@@ -1,7 +1,7 @@
 class SortingRobot:
     def __init__(self, l):
         """
-        SortingRobot takes a list and sorts it.
+        SortingRobot takes a list and sorts it
         """
         self._list = l          # The list the robot is tasked with sorting
         self._item = None       # The item the robot is holding
